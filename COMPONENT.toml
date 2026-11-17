@@ -3,7 +3,7 @@ name = "SigmaOS-buffer-cache"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "buffer-cache component"
+description = "buffer cache component"
 upstream = []
 
 [contract]
